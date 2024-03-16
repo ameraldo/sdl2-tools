@@ -1,0 +1,1 @@
+some simple sdl2 examples written throughout my graphics programming learning journey
